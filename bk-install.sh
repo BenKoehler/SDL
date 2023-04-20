@@ -1,6 +1,5 @@
 #!/bin/bash
 cd ..
-mv SDL/ SDL2-src/
 #remove previous installation
 rm -r SDL2-build
 rm -r SDL2
